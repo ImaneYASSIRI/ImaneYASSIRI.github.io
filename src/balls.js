@@ -1,10 +1,3 @@
-/*
-    Younes JEDDI
-    PFE : Propagatio Vs Confinement
-    Projet PFE
-    SIR -2019/2020-  
-*/
-
 var lineGraph;
 myVar = setTimeout(10000000000);
 //added
